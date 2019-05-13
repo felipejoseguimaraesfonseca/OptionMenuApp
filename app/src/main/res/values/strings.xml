@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OptionMenuApp</string>
+    <string name="azul_escuro">Azul Escuro</string>
+    <string name="verde_escuro">Verde Escuro</string>
+    <string name="clique_aqui">Clique aqui</string>
+    <string name="violeta_escuro">Violeta Escuro</string>
+</resources>

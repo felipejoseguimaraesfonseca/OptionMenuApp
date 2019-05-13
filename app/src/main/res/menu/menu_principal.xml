@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/corAzulEscuro"
+        android:title="@string/azul_escuro"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/corVerdeEscuro"
+        android:title="@string/verde_escuro"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/corVioletaEscuro"
+        android:title="@string/violeta_escuro"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/texto"
+        android:title="@string/clique_aqui"
+        app:showAsAction="ifRoom"/>
+
+</menu>
